@@ -129,3 +129,4 @@ tk.Button(switch_frame, text="Reset", command=reset_display).pack(side=tk.LEFT, 
 tk.Button(switch_frame, text="Spare", command=lambda: print("Spare Button Pressed")).pack(side=tk.LEFT, padx=5)
 
 root.mainloop()
+
